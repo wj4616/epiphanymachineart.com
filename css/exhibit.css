@@ -1,0 +1,8 @@
+.imgblock {
+	width:100%;
+	padding-bottom: 1.66em;
+}
+
+img .imgblock {
+	width: 100%;
+}
