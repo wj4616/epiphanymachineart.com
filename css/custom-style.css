@@ -1,14 +1,15 @@
 
 
 .bg-image {
-	width: 100vh;
-	height: 100vh;
+
 	margin: 0px;
 	padding: 0px;
 	position: absolute;
 	top: 0px;
 	right: 0px;
 	object-fit: contain;
+	background-repeat: repeat;
+
 }
 
 h1, p {
